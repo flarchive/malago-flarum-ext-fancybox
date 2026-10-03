@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of malago/flarum-ext-fancybox.** Not for installation: use [Packagist](https://packagist.org/packages/malago/flarum-ext-fancybox) or the [upstream repository](https://github.com/malago86/flarum-ext-fancybox).
 
-**0** versions archived · Latest: [`0.3.0`](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.3.0) · License: `GPL-3.0-or-later` · Flarum: `^1.0.0`
+**8** versions archived · Latest: [`0.3.0`](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.3.0) · License: `GPL-3.0-or-later` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1-beta` | 2019-04-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.1-beta) |
+| `0.2-beta` | 2019-05-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.2-beta) |
+| `0.2.0-beta.2` | 2020-05-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.2.0-beta.2) |
+| `0.2.0-beta.3` | 2020-05-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.2.0-beta.3) |
+| `0.2.0-beta.4` | 2020-05-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.2.0-beta.4) |
+| `0.2.0-beta.5` | 2021-01-27 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.2.0-beta.5) |
+| `0.2.1` | 2021-01-30 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.2.1) |
+| `0.3.0` | 2021-05-28 | `^1.0.0` | [Browse](https://github.com/flarchive/malago-flarum-ext-fancybox/tree/archive/v0.3.0) |
 
 Catalog entry: [packages/malago-flarum-ext-fancybox.json](https://github.com/flarchive/archive-index/blob/main/packages/malago-flarum-ext-fancybox.json)
 
